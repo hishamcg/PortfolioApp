@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "portfolio-1285",
+    "project_number": "577068978594",
+    "name": "Portfolio"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577068978594:android:ae0a3cff20103ba5",
+        "client_id": "android:com.hisham.portfolio",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.hisham.portfolio",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577068978594-uc2o9feclfvvvf9prkq1lnpm6vokgqta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hisham.portfolio",
+            "certificate_hash": "C747FFCC260AD11F76BE4290FDE109A255A564EB"
+          }
+        },
+        {
+          "client_id": "577068978594-3pk4qmmpvb7nm4o4k8afqfr70fhmfc51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

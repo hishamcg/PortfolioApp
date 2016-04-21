@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="ui_light_blue">#5ab3e5</color>
+    <color name="ui_text_gray">#808285</color>
+    <color name="ld_blue">#e22881b9</color>
+    <color name="green">#00A34B</color>
+    <color name="red">#992416</color>
+    <color name="ColorPrimary">#00897B</color>
+    <color name="long_click_blue">#8a30a195</color>
+    <color name="gray">#b4b4b4</color>
+</resources>
